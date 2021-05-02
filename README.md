@@ -1,5 +1,5 @@
 # Smart-Phone-Controlled-Home-Automation-using-raspberry-pi
-*Home automation is growing rapidly they are used to provide comfort, convenience ,quality of life and security for residents.
+Home automation is growing rapidly they are used to provide comfort, convenience ,quality of life and security for residents.
 *  We will be able to control any home appliance using the Raspberry pi 3 home automation.
 *  A smart phone application is used to control and monitor the home appliances using Bluetooth 
 Or wifi.  
