@@ -3,8 +3,7 @@ Home automation is growing rapidly they are used to provide comfort, convenience
 *  We will be able to control any home appliance using the Raspberry pi 3 home automation.
 *  A smart phone application is used to control and monitor the home appliances using Bluetooth 
 Or wifi.  
-* 
-to provide comfort, convenience, quality of life and security 
+To provide comfort, convenience, quality of life and security 
 for resident
 Home automation  system is growing rapidly, they are used 
 to provide comfort, convenience, quality of life and security 
@@ -15,7 +14,7 @@ for resident
 Home automation  system is growing rapidly, they are used 
 to provide comfort, convenience, quality of life and security 
 for resident
-The older people and the disabled ones will get more benefit from this.
+The older people and the disabled people are the most benifited ones.
 
 
 Methodology/Procedure-
