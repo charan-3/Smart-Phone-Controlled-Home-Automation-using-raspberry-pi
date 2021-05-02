@@ -17,7 +17,7 @@ for resident
 The older people and the disabled people are the most benifited ones.
 
 
-Methodology/Procedure-
+>>>Methodology/Procedure-
 Our project has divided into following  steps:
 Experimenting :In this step, we were discussing about the necessary equipments and materials. We were studying about the similar projects, gathering the information of programming language to be used. 
 
@@ -25,7 +25,8 @@ Design :In this phase, we were designing the layout of the appliances .The neces
 
 Code implementation: We learned python to a certain extent and we have successfully implemented the code.
 Bugs and testing :We faced a lot of problems pairing the smartphone to the raspberry we have overcomed this problem by updating our drivers.
-Final result: Our project was a  success and it promisingly delivered what we expected.
+>>>Final result: Our project was a  success and it promisingly delivered what we expected.
+![image](https://user-images.githubusercontent.com/83528610/116806336-e05bb180-ab49-11eb-966f-a345f223bb34.png)
 
 
 
